@@ -1,0 +1,9 @@
+.banner{
+  height: 100vh;
+  background: rgb(247, 227, 202);
+}
+.banner h1{
+  font-size: 60px;
+  color: blue;
+  background-color: rgb(195, 250, 250);
+}
